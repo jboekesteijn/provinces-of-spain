@@ -16,6 +16,10 @@ The resulting SVG fragment for every province has this format:
     </text>
 </g>
 ```
+
+## Example
+There is [a webpage with an embedded map](https://www.boekesteijn.com/provinces-of-spain/) that shows the ISO 3166-2:ES province identifier after clicking a province.
+
 ## License
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
